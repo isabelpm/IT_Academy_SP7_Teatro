@@ -10,19 +10,19 @@ import { Box, Grid } from '@material-ui/core'
 import { Btn, Row, P, Titular, Subtitulo, Info, Box2 } from './styled';
 
 
-export default () => {
+function App () {
     //Declaramos la variable currentSentence (frase que se mostrará por pantalla)
     const [currentSetence, setCurrentSetence] = useState(0);
 
     //Función frase siguiente
     const nextSentence = () => {
-        if (currentSetence != paragraphs.length - 1) {
+        if (currentSetence !== paragraphs.length - 1) {
             setCurrentSetence(currentSetence + 1);
         }
     }
     //Función frase anterior
     const prevSentence = () => {
-        if (currentSetence != 0) {
+        if (currentSetence !== 0) {
             setCurrentSetence(currentSetence - 1);
         }
     }
@@ -59,3 +59,4 @@ export default () => {
         </div>
     );
 };
+export default App;
