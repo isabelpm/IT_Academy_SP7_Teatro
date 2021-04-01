@@ -5,6 +5,8 @@ _Crear una web interactiva en react para aprender textos de teatro. Donde aplica
 ## Empezamos 🚀
 
 _A continuación tienes una **visualización final** de la website pero si lo deseas **puedes descargarte una cópia del repositorio** en tu ordenador._
+![Captura de pantalla 2021-04-01 a las 17 56 16](https://user-images.githubusercontent.com/67895734/113321215-aa8d9800-9313-11eb-8692-a0204098c420.png)
+![Captura de pantalla 2021-04-01 a las 17 56 37](https://user-images.githubusercontent.com/67895734/113321227-aceff200-9313-11eb-93fc-098268a1f3d9.png)
 
 
 ## Pre-Requisitos 🔧
