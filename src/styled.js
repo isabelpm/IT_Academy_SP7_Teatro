@@ -25,7 +25,7 @@ export const Info = styled.div`
     font-weight:300;
     font-style:italic;
     margin-left:3rem;
-     margin-bottom:10rem;
+     margin-bottom:6rem;
     text-align:left;
     color: #783b66;
     
