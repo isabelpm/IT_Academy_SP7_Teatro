@@ -1,4 +1,4 @@
-# PROYECTO REACT - TEATRO
+# REACT - APP TEATRO
 
 _Crear una web interactiva en react para aprender textos de teatro. Donde aplicaremos components, props, state, styled-components y react events._
 
